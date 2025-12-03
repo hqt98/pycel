@@ -54,7 +54,7 @@ setup(
     description="A library for compiling excel spreadsheets to python code "
     "& visualizing them as a graph",
     keywords="excel compiler formula parser",
-    url="https://github.com/stephenrauch/pycel",
+    url="https://github.com/hqt98/pycel.git",
     project_urls={
         # 'Documentation': 'https://pycel.readthedocs.io/en/stable/',
         "Tracker": "https://github.com/stephenrauch/pycel/issues",
